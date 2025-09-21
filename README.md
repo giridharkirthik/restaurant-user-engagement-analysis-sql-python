@@ -150,7 +150,7 @@ jupyter notebook notebooks/
 start dashboard/restaurant_engagement_dashboard.pbix
 # macOS:
 open dashboard/restaurant_engagement_dashboard.pbix
-
+'''bash
 ---
 
 ## ✅ Final Recommendations
