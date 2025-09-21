@@ -1,4 +1,78 @@
+# 🍽️ Restaurant User Engagement & Success Analysis – Yelp Dataset
 
+Analyzing how **user engagement** (reviews, tips, check-ins, sentiment) relates to restaurant success metrics (review count, ratings) using **SQL, Python, and Power BI**.
+
+---
+
+## 📌 Table of Contents
+- [Overview](#-overview)  
+- [Business Problem](#-business-problem)  
+- [Dataset](#-dataset)  
+- [Tools & Technologies](#-tools--technologies)  
+- [Project Structure](#-project-structure)  
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)  
+- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)  
+- [Research Questions & Key Findings](#-research-questions--key-findings)  
+- [Dashboard](#-dashboard)  
+- [How to Run This Project](#-how-to-run-this-project)  
+- [Final Recommendations](#-final-recommendations)  
+- [Author & Contact](#-author--contact)  
+
+---
+
+## 📖 Overview
+In a competitive market like the restaurant industry, understanding the factors that influence business success is crucial for stakeholders.
+
+This project investigates the relationship between **user engagement** (reviews, tips, check-ins) and **business success metrics** (review count, ratings) for restaurants using the **Yelp dataset**.
+
+---
+
+## 🎯 Business Problem
+Restaurants need to understand:  
+- How user engagement affects ratings and review counts.  
+- Whether positive sentiment in reviews and tips contributes to business success.  
+- If consistent engagement over time predicts long-term success better than sporadic activity.  
+
+---
+
+## 📂 Dataset
+- Subset of Yelp covering 8 metropolitan areas in the USA and Canada.  
+- Original data provided as JSON files: `business`, `review`, `user`, `tip`, `checkin`.  
+- JSON files stored in a database for easy retrieval.  
+
+**Key Stats:**  
+- 150K businesses total  
+- 35K are open restaurants  
+
+---
+
+## 🛠️ Tools & Technologies
+- **SQL** → Data ingestion and queries  
+- **Python** → Pandas, Matplotlib, Seaborn, SciPy  
+- **Power BI** → Dashboard & visualization  
+- **GitHub** → Version control  
+
+---
+
+## 📁 Project Structure
+restaurant-user-engagement-analysis/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Restaurant Engagement Report.pdf
+│
+├── notebooks/
+│ ├── exploratory_data_analysis.ipynb
+│ ├── sentiment_analysis.ipynb
+│ └── engagement_trends.ipynb
+│
+├── scripts/
+│ ├── ingestion_db.py
+│ └── engagement_summary.py
+│
+├── dashboard/
+│ └── restaurant_engagement_dashboard.pbix
 ---
 
 ## 🧹 Data Cleaning & Preparation
