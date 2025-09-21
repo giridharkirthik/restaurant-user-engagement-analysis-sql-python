@@ -153,22 +153,18 @@ open dashboard/restaurant_engagement_dashboard.pbix
 
 ---
 
+---
+
 ## ✅ Final Recommendations
-
-Collaborate with elite users to boost engagement and loyalty.
-
-Optimize operating hours and staffing to match peak engagement.
-
-Focus on consistent engagement strategies.
-
-Respond actively to feedback (“useful,” “funny,” “cool”).
-
-Target high-success cities for expansion: Philadelphia, Tampa, Indianapolis, Tucson.
+- Collaborate with elite users to boost engagement and loyalty.  
+- Optimize operating hours and staffing to match peak engagement.  
+- Focus on consistent engagement strategies.  
+- Respond actively to feedback (“useful,” “funny,” “cool”).  
+- Target high-success cities for expansion: Philadelphia, Tampa, Indianapolis, Tucson.  
 
 ---
 
 ## 👤 Author & Contact
-
-Giridhar Kirthik H
-📧 giridharkirthikh2001@gmail.com
+**Giridhar Kirthik H**  
+📧 [giridharkirthikh2001@gmail.com](mailto:giridharkirthikh2001@gmail.com)
 
