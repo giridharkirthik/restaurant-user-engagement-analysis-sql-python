@@ -134,22 +134,13 @@ Power BI Dashboard provides insights on:
 '''bash
 # 1️⃣ Clone repository
 git clone https://github.com/your-username/restaurant-user-engagement-analysis.git
+
 cd restaurant-user-engagement-analysis
 
-# 2️⃣ Install dependencies
-pip install -r requirements.txt
 
 # 3️⃣ Run ingestion script to populate database
-python scripts/ingestion_db.py
+scripts/ingestion_db.py
 
-# 4️⃣ Open Jupyter notebooks for analysis
-jupyter notebook notebooks/
-
-# 5️⃣ Open Power BI dashboard
-# Windows:
-start dashboard/restaurant_engagement_dashboard.pbix
-# macOS:
-open dashboard/restaurant_engagement_dashboard.pbix
 ---
 
 ## ✅ Final Recommendations
