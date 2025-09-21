@@ -153,8 +153,6 @@ open dashboard/restaurant_engagement_dashboard.pbix
 
 ---
 
----
-
 ## ✅ Final Recommendations
 - Collaborate with elite users to boost engagement and loyalty.  
 - Optimize operating hours and staffing to match peak engagement.  
@@ -167,4 +165,3 @@ open dashboard/restaurant_engagement_dashboard.pbix
 ## 👤 Author & Contact
 **Giridhar Kirthik H**  
 📧 [giridharkirthikh2001@gmail.com](mailto:giridharkirthikh2001@gmail.com)
-
