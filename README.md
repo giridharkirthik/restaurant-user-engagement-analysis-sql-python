@@ -131,6 +131,7 @@ Power BI Dashboard provides insights on:
 ---
 
 ## ⚡ How to Run This Project
+'''bash
 # 1️⃣ Clone repository
 git clone https://github.com/your-username/restaurant-user-engagement-analysis.git
 cd restaurant-user-engagement-analysis
