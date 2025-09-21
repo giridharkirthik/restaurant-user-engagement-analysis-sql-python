@@ -49,30 +49,7 @@ Restaurants need to understand:
 ## 🛠️ Tools & Technologies
 - **SQL** → Data ingestion and queries  
 - **Python** → Pandas, Matplotlib, Seaborn, SciPy  
-- **Power BI** → Dashboard & visualization  
-- **GitHub** → Version control  
 
----
-
-## 📁 Project Structure
-restaurant-user-engagement-analysis/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── Restaurant Engagement Report.pdf
-│
-├── notebooks/
-│ ├── exploratory_data_analysis.ipynb
-│ ├── sentiment_analysis.ipynb
-│ └── engagement_trends.ipynb
-│
-├── scripts/
-│ ├── ingestion_db.py
-│ └── engagement_summary.py
-│
-├── dashboard/
-│ └── restaurant_engagement_dashboard.pbix
 ---
 
 ## 🧹 Data Cleaning & Preparation
@@ -174,6 +151,8 @@ start dashboard/restaurant_engagement_dashboard.pbix
 # macOS:
 open dashboard/restaurant_engagement_dashboard.pbix
 
+---
+
 ✅ Final Recommendations
 
 Collaborate with elite users to boost engagement and loyalty.
@@ -186,7 +165,10 @@ Respond actively to feedback (“useful,” “funny,” “cool”).
 
 Target high-success cities for expansion: Philadelphia, Tampa, Indianapolis, Tucson.
 
+---
+
 👤 Author & Contact
 
 Giridhar Kirthik H
 📧 giridharkirthikh2001@gmail.com
+
