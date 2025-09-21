@@ -153,7 +153,7 @@ open dashboard/restaurant_engagement_dashboard.pbix
 
 ---
 
-✅ Final Recommendations
+## ✅ Final Recommendations
 
 Collaborate with elite users to boost engagement and loyalty.
 
@@ -167,7 +167,7 @@ Target high-success cities for expansion: Philadelphia, Tampa, Indianapolis, Tuc
 
 ---
 
-👤 Author & Contact
+## 👤 Author & Contact
 
 Giridhar Kirthik H
 📧 giridharkirthikh2001@gmail.com
